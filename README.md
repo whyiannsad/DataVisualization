@@ -1,14 +1,13 @@
 Установка и запуск
 1. Клонирование репозитория
 Склонируйте проект на свой локальный компьютер:
-git clone https://github.com/ВАШЕ_ИМЯ_ПОЛЬЗОВАТЕЛЯ/DataVisualization.git
+``git clone https://github.com/ВАШЕ_ИМЯ_ПОЛЬЗОВАТЕЛЯ/DataVisualization.git``
 
 2. Установка зависимостей
 Перейдите в папку проекта и установите зависимости:
-cd DataVisualization
-npm install
+``npm install``
 
 3. Запуск проекта
 Для запуска приложения в режиме разработки выполните:
-npm run dev
+``npm run dev``
 Приложение будет доступно по адресу http://localhost:5173.
